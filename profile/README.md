@@ -1,0 +1,3 @@
+# ECOS Team
+
+ECOS Team is dedicated to building open-source chip design solutions and a robust technology ecosystem. Using **open source** to innovate chip design methods, the team aims to **achieve its ultimate vision of lowering the barrier to entry for chip design and empowering a wide range of industries.** Currently, the ECOS team is working on projects such as ChipCompiler (an open-source EDA toolchain supporting the entire chip design process), the [iEDA](https://ieda.oscc.cc/en) project (a collaborative effort with Pengcheng Laboratory to develop open-source EDA tools), the [One Student One Chip ](https://ysyx.oscc.cc/en/) Program (an open chip and system talent development program), and SNOW (a public welfare research and community tape-out support program).
