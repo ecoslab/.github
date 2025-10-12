@@ -12,9 +12,7 @@
 - **Goal**: ECOS / ECOS Lab are committed to building open-source chip design solutions and its supporting technology ecosystem, using the concept of **"open source"** to innovate chip design methods, and realizing the ultimate vision of **"lowering the threshold of chip design with open source and empowering thousands of industries".**
 
 ### Community & Resources
-- Website: TODO
-- E-Mail: TODO
-- Discord: TODO
+TODO
 
 </td>
 <td width="50%" valign="top">
@@ -36,9 +34,31 @@
   - **Cloud Platfrom**: Supports chip design & verification in the cloud as a service
   - **Design Service**: Provides low-cost tape-out services for universities and communities
 
-### Tapeout Shuttle
-
 </td>
 </tr>
-
 </table>
+
+### Tapeout Shuttle
+#### ICSprout55 MPW 1 (TBD)
+
+```mermaid
+gantt
+  dateFormat YYYY-MM
+  section Submission
+    Task: a1, 2025-10-15, 30d
+  section Gen GDSII
+    Task: b1, 2025-10-15, 60d
+  section Manufacture
+    Task: c1, after b1, 90d
+  section Packaging
+    Task: d1, after c1, 15d
+  section PCB
+    Task: e1, after c1, 20d
+```
+
+<details>
+<summary>Archive</summary>
+  
+#### ICSprout55 MPW 0
+  
+</details>
