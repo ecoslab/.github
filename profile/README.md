@@ -27,7 +27,7 @@ TODO
   - [iEDA](https://ieda.oscc.cc): Open source intelligent EDA tools and infrastructure, just like OpenRoad, etc
   - **Open Source EDA Toolchain**: Covers the core steps of chip design and supporting full-process design, just like OpenLane, SiliconCompiler, etc
 - PDK Data
-  - [ICsprout55 PDK](https://icsprout55-pdk.rtfd.io): 55nm CMOS Open Source PDK 
+  - [ICsprout55 PDK](https://icsprout55-pdk.rtfd.io): 55nm CMOS Open Source PDK by ICsprout Integrated Circuit Co., Ltd.
 - Embedded
   - **Embedded Community**: Contains PCB board materials based on ECOS open source chip, click [here](https://embedded.ecoslab.com) to visit
 - Platform & Service
