@@ -9,7 +9,7 @@
 - **Members**: [Frontier System Laboratory, Center for Advanced Computer Systems, Institute of Computing Technology, Chinese Academy of Sciences](https://acs.ict.ac.cn/english), [Beijing Institute of Open Source Chip](https://www.bosc.ac.cn), etc
 - **Partners**: [PengCheng Laboratory](https://www.pcl.ac.cn), [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en), [Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn), etc
 - **Slogan**: (Build an) **E**cosystem for **C**ollaborative and **O**pen **S**ilicon
-- **Goal**: ECOS / ECOS Team are committed to building open-source chip design solutions and its supporting technology ecosystem, using the concept of **"open source"** to innovate chip design methods, and realizing the ultimate vision of **"lowering the threshold of chip design with open source and empowering thousands of industries"**
+- **Goal**: ECOS team are committed to building open-source chip design solutions and its supporting technology ecosystem, using the concept of **"open source"** to innovate chip design methods, and realizing the ultimate vision of **"lowering the threshold of chip design with open source and empowering thousands of industries"**
 
 ### 🔥 Community & Resources
 TODO
@@ -44,9 +44,9 @@ TODO
   gantt
     dateFormat YYYY-MM
     section Submission
-      Task: a1, 2025-10-15, 30d
+      Task: a1, 2025-10-20, 30d
     section Gen GDSII
-      Task: b1, 2025-10-15, 60d
+      Task: b1, 2025-10-20, 60d
     section Manufacture
       Task: c1, after b1, 90d
     section Packaging
