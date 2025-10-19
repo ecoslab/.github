@@ -39,7 +39,7 @@ TODO
 </table>
 
 ### 🚍 Tapeout Shuttle
-- ICsprout55 MPW 1 (TBD)
+- ECOS-ICS55-2512 (TBD)
   ```mermaid
   gantt
     dateFormat YYYY-MM
@@ -57,5 +57,5 @@ TODO
 
 <details>
 <summary>Archive</summary>
-  
+
 </details>
