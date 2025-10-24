@@ -44,15 +44,17 @@ TODO
   gantt
     dateFormat YYYY-MM
     section Submission
-      Task: a1, 2025-10-20, 30d
-    section Gen GDSII
-      Task: b1, 2025-10-20, 60d
+      Task: a1, 2025-10-25, 7d
+    section Backend
+      Task: b1, 2025-11-01, 50d
     section Manufacture
       Task: c1, after b1, 90d
     section Packaging
-      Task: d1, after c1, 15d
+      Task: d1, after c1, 20d
     section PCB
-      Task: e1, after c1, 20d
+      Task: e1, after c1, 15d
+    section Bringup
+      Task: f1, after d1, 7d
   ```
 
 <details>
