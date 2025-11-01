@@ -12,6 +12,7 @@
 - **Goal**: ECOS team are committed to building open-source chip design solutions and its supporting technology ecosystem, using the concept of **"open source"** to innovate chip design methods, and realizing the ultimate vision of **"lowering the threshold of chip design with open source and empowering thousands of industries"**
 
 ### 🔥 Community & Resources
+- [[FSiC2025 PPT] "One Student One Chip" initiative: Learn to build RISC-V chips from scratch with MOOC](https://wiki.f-si.org/images/2/2e/20250701-OSOC-0703.pptx.pdf)
 - [[FSiC2025 PPT] Making Open Silicon Design Everywhere: Using Cloud-based Open Agile EDA Platform](https://wiki.f-si.org/images/a/ad/FSiC2025_Making_Open_Silicon_Design_Everywhere_final_version_present.pdf)
 - TODO
 
